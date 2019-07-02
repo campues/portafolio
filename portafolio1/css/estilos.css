@@ -246,13 +246,12 @@ figure {
 }
 .event img {
   width: 480px;
-  height: 200px;
+  height: 300px;
   object-fit: cover;
 }
 .event-detail {
   margin: 20px 40px;
-  margin-top: -40px;
-  background-color: white;
+  margin-top: -30px;
   position: relative;
   padding: 20px;
   text-align: center;

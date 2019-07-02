@@ -47,5 +47,6 @@ input[type="submit"]:active{
 }
 
 a{
-text-decoration: none; /*quitar formato a botton*/
-}
+    text-decoration: none; /*quitar formato a botton*/
+    }
+    
