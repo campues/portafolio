@@ -13,10 +13,13 @@ box-sizing: border-box;
 }
 
 body{
-    background: #dedede;
     display: flex;
     min-height: 100vh;
+    background: url(fondoBody.jpg);
+    background-size: cover;
+    background-attachment: fixed;
 }
+
 form{
     margin: auto;
     width: 50%;
@@ -47,5 +50,6 @@ input[type="submit"]:active{
 }
 
 a{
-text-decoration: none; /*quitar formato a botton*/
-}
+    text-decoration: none; /*quitar formato a botton*/
+    }
+    
